@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, & Program AWS Back-End Academy 2025**
 
-- 💬 Ask me about **React, HTML, PHP, and CSS**
+- 💬 Ask me about **React, HTML, PHP, and CSS, More**
 
 - 📫 How to reach me **yudi.grombyang@gmail.com**
 

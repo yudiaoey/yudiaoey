@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yudi</h1>
-<h3 align="center">A Junior Fullstack developer from Indonesia</h3>
+<h3 align="center">A Junior Fullstack developer from Indonesia 🇮🇩</h3>
 
 - 🔭 I’m currently working on **PT. Jalur Nugraha Ekakurir**
 
-- 🌱 I’m currently learning **React, & Program AWS Back-End Academy 2025**
+- 🌱 I’m currently learning **React, & Program AWS Back-End Academy 2025** 
 
 - 💬 Ask me about **React, HTML, PHP, and CSS, More**
 
